@@ -1,0 +1,9 @@
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\bin\Debug\projetoW.exe.config
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\bin\Debug\projetoW.exe
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\bin\Debug\projetoW.pdb
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\obj\Debug\projetoW.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\obj\Debug\projetoW.Form1.resources
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\obj\Debug\projetoW.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\obj\Debug\projetoW.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\obj\Debug\projetoW.exe
+c:\users\bruno\documents\visual studio 2013\Projects\projetoW\projetoW\obj\Debug\projetoW.pdb
